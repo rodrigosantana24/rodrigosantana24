@@ -12,7 +12,7 @@ Sou um desenvolvedor FullStack em formação, com foco no aprendizado da linguag
 </div>
 
 ---
-### Principais Tecnologias
+### Linguagens e Tecnologias
   <a href="https://github.com/rodrigosantana24/AprendizagemJava" target="_blank">
   <img align="left" alt="Rod-Java" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
