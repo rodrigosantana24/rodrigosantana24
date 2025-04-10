@@ -13,12 +13,12 @@ Sou um desenvolvedor FullStack em formação, com foco no aprendizado da linguag
 
 ---
 ### Principais Tecnologias
-  <a href="https://www.linkedin.com/in/rodrigo-santana-280928233/" target="_blank">
+  <a href="https://github.com/rodrigosantana24/AprendizagemJava" target="_blank">
   <img align="left" alt="Rod-Java" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
 </a>
 
-<a href="https://www.linkedin.com/in/rodrigo-santana-280928233/" target="_blank">
+<a href="https://github.com/rodrigosantana24/AprendizagemPython" target="_blank">
   <img align="left" alt="Rod-Python" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </a>
