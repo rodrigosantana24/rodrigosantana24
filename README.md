@@ -13,11 +13,34 @@ Sou um desenvolvedor FullStack em formação, com foco no aprendizado da linguag
 
 ---
 ### Principais Tecnologias
-  <img align="left" alt="Rod-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
-  <img align="left" alt="Rod-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="left" alt="Rod-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="left" alt="Rod-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="left" alt="Rod-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="left" alt="Rod-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <a href="https://www.linkedin.com/in/rodrigo-santana-280928233/" target="_blank">
+  <img align="left" alt="Rod-Java" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/rodrigo-santana-280928233/" target="_blank">
+  <img align="left" alt="Rod-Python" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/rodrigo-santana-280928233/" target="_blank">
+  <img align="left" alt="Rod-Js" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/rodrigo-santana-280928233/" target="_blank">
+  <img align="left" alt="Rod-HTML" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/rodrigo-santana-280928233/" target="_blank">
+  <img align="left" alt="Rod-CSS" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/rodrigo-santana-280928233/" target="_blank">
+  <img align="left" alt="Rod-Spring" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+</a>
 <br />
 
