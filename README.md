@@ -15,7 +15,7 @@ Sou um desenvolvedor FullStack em formação, com foco no aprendizado da linguag
 ### Linguagens e Tecnologias
   <a href="https://github.com/rodrigosantana24/AprendizagemJava" target="_blank">
   <img align="left" alt="Rod-Java" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </a>
 
 <a href="https://github.com/rodrigosantana24/AprendizagemPython" target="_blank">
