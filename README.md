@@ -1,7 +1,7 @@
 ## Rodrigo Santana 👋
 **`Desenvolvedor FullStack`**
 
-Sou um desenvolvedor FullStack em formação, com foco no aprendizado da linguagem Java. Atualmente estou cursando Sistemas de Informação na UFRPE, onde constantemente estou aprimorando minhas habilidades em algoritmos, estrutura de dados e desenvolvimento de software. Tenho me aprofundado em tecnologias como Java, Spring Boot, Python, JavaScript, HTML, CSS, SQL e GIT, além de ter aprendido Flutter e Kivy em projetos acadêmicos, o que ampliou minha experiência em desenvolvimento mobile. Tenho interesse especial em desenvolvimento Backend, buscando sempre criar soluções que resolvam algum problema real. 
+Sou um desenvolvedor FullStack em formação, com foco no aprendizado da linguagem Java. Atualmente estou cursando Sistemas de Informação na UFRPE, onde constantemente estou aprimorando minhas habilidades em algoritmos, estrutura de dados e desenvolvimento de software. Tenho me aprofundado em tecnologias como Java, Spring Boot, Python, JavaScript, HTML, CSS, SQL e GIT. Tenho interesse especial em desenvolvimento Backend, buscando sempre criar soluções que resolvam algum problema real. 
 
 ---
 **`Meu perfil no LinkedIn`**
