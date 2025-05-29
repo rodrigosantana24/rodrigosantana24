@@ -1,46 +1,46 @@
-## Rodrigo Santana 👋
-**`Desenvolvedor FullStack`**
+# Rodrigo Santana 👋
+## **Desenvolvedor FullStack**
 
-Sou um desenvolvedor FullStack em formação, com foco no aprendizado das linguagens Java e JavaScript. Atualmente estou cursando Sistemas de Informação na UFRPE, onde constantemente estou aprimorando minhas habilidades em algoritmos, estrutura de dados e desenvolvimento de software. Tenho me aprofundado em tecnologias como Java, JavaScript, HTML, CSS, Reactjs, SQL e GIT. Tenho interesse especial em desenvolvimento web, buscando sempre criar soluções que resolvam algum problema real. 
+💡 Sou um desenvolvedor FullStack e atualmente estou cursando Sistemas de Informação na UFRPE, onde aprimoro habilidades em algoritmos, estrutura de dados e no desenvolvimento de sistemas. Tenho aprofundado meus estudos em Java, JavaScript, HTML, CSS, React.js, SQL e Git, sempre buscando criar soluções úteis e aplicáveis.
 
----
-**`Meu perfil no LinkedIn`**
-<div>
-  <a href="https://www.linkedin.com/in/rodrigo-santana-280928233/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</div>
 
----
-### Linguagens e Tecnologias
+## Linguagens e Tecnologias
+<p>
   <a href="https://github.com/rodrigosantana24/AprendizagemBackend" target="_blank">
-  <img align="left" alt="Rod-Java" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
-</a>
+    <img align="left" alt="Rod-Java" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  </a>
+  <a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
+    <img align="left" alt="Rod-Js" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  </a>
+  <a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
+    <img align="left" alt="Rod-HTML" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  </a>
+  <a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
+    <img align="left" alt="Rod-CSS" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  </a>
+  <a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
+    <img align="left" alt="Rod-React" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  </a>
+  <a href="https://github.com/rodrigosantana24/AprendizagemBackend" target="_blank">
+    <img align="left" alt="Rod-Mysql" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  </a>
+  <a href="https://github.com/rodrigosantana24/AprendizagemPython" target="_blank">
+    <img align="left" alt="Rod-Python" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  </a>
+</p>
 
-<a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
-  <img align="left" alt="Rod-Js" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-</a>
+<br clear="all">
 
-<a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
-  <img align="left" alt="Rod-HTML" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-</a>
 
-<a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
-  <img align="left" alt="Rod-CSS" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-</a>
-
-<a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
-  <img align="left" alt="Rod-React" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-</a>
-
-<a href="https://github.com/rodrigosantana24/AprendizagemPython" target="_blank">
-  <img align="left" alt="Rod-Python" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-</a>
-<br />
-
+---
+## Meu perfil no LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-santana-280928233/)  
+---
+📫 **Contato:** [rodrigosantana.dev@gmail.com](mailto:rodrigosantana.dev@gmail.com)
