@@ -1,7 +1,7 @@
 # Rodrigo Santana 👋
 ## **Desenvolvedor FullStack**
 
-💡 Sou um desenvolvedor FullStack e atualmente estou cursando Sistemas de Informação na UFRPE, onde aprimoro habilidades em algoritmos, estrutura de dados e no desenvolvimento de sistemas. Tenho aprofundado meus estudos em Java, JavaScript, HTML, CSS, React.js, SQL e Git, sempre buscando criar soluções úteis e aplicáveis.
+💡 Sou um desenvolvedor FullStack e atualmente estou cursando Sistemas de Informação na UFRPE. Tenho aprofundado meus estudos em Java, JavaScript, HTML, CSS, React.js, SQL e Git, sempre buscando criar soluções úteis e aplicáveis.
 
 
 ## Linguagens e Tecnologias
