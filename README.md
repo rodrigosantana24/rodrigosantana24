@@ -1,7 +1,7 @@
 # Rodrigo Santana 👋
 ## **Desenvolvedor FullStack**
 
-💡 Sou um desenvolvedor FullStack e atualmente estou cursando Sistemas de Informação na UFRPE. Tenho aprofundado meus estudos em Java, JavaScript, HTML, CSS, React.js, SQL e Git, sempre buscando criar soluções úteis e aplicáveis.
+💡Tenho aprofundado meus estudos em Java, JavaScript, HTML, CSS, React.js, SQL, MYSQL e Git, sempre buscando criar soluções úteis e aplicáveis.
 
 
 ## Linguagens e Tecnologias
@@ -29,10 +29,6 @@
   <a href="https://github.com/rodrigosantana24/AprendizagemBackend" target="_blank">
     <img align="left" alt="Rod-Mysql" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  </a>
-  <a href="https://github.com/rodrigosantana24/AprendizagemPython" target="_blank">
-    <img align="left" alt="Rod-Python" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   </a>
 </p>
 
