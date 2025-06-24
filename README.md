@@ -41,4 +41,5 @@
 ---
 📫 **Contato:** [rodrigosantana.dev@gmail.com](mailto:rodrigosantana.dev@gmail.com)
 <br clear="all">
+<br clear="all">
 🌐 **Site** https://rodrigosantana24.github.io/Portfolio/
