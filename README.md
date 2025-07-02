@@ -1,8 +1,7 @@
 # Rodrigo Santana 👋
-## **Desenvolvedor FullStack**
+## **Desenvolvedor Web**
 
-💡Tenho aprofundado meus estudos em Java, JavaScript, HTML, CSS, React.js, SQL, MYSQL e Git, sempre buscando criar soluções úteis e aplicáveis.
-
+💡Tenho me aprofundado em Java para desenvolvimento backend, além de explorar tecnologias como JavaScript, HTML, CSS, React.js, SQL, MySQL e Git, com o objetivo de expandir continuamente meus conhecimentos em desenvolvimento web e construir soluções robustas e eficientes.
 
 ## Linguagens e Tecnologias
 <p>
