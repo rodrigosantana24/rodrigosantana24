@@ -1,7 +1,7 @@
 # Rodrigo Santana 👋
-## **Desenvolvedor Web**
+## **Desenvolvedor Backend Java com visão Fullstack.**
 
-💡Tenho me aprofundado em Java para desenvolvimento backend, além de explorar tecnologias como JavaScript, HTML, CSS, React.js, SQL e Git, com o objetivo de expandir meus conhecimentos em desenvolvimento web e construir soluções robustas e eficientes.
+💡Sou estudante de Sistemas de Informação na UFRPE e tenho me especializado em desenvolvimento backend com Java, enquanto amplio meus conhecimentos em React.js, SQL, MySQL, JavaScript, HTML, CSS  e Git para ter uma visão mais completa do desenvolvimento de software.
 
 ## Linguagens e Tecnologias
 <p>
@@ -9,7 +9,19 @@
     <img align="left" alt="Rod-Java" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   </a>
+  <a href="https://github.com/rodrigosantana24/AprendizagemBackend" target="_blank">
+    <img align="left" alt="Rod-Spring" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  </a>
   <a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
+    <img align="left" alt="Rod-React" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  </a>
+  <a href="https://github.com/rodrigosantana24/AprendizagemBackend" target="_blank">
+    <img align="left" alt="Rod-Mysql" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  </a>
+    <a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
     <img align="left" alt="Rod-Js" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   </a>
@@ -20,14 +32,6 @@
   <a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
     <img align="left" alt="Rod-CSS" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  </a>
-  <a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
-    <img align="left" alt="Rod-React" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  </a>
-  <a href="https://github.com/rodrigosantana24/AprendizagemBackend" target="_blank">
-    <img align="left" alt="Rod-Mysql" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   </a>
 </p>
 
@@ -41,4 +45,4 @@
 📫 **Contato:** [rodrigosantana.dev@gmail.com](mailto:rodrigosantana.dev@gmail.com)
 <br clear="all">
 <br clear="all">
-🌐 **Site** https://rodrigosantana24.github.io/Portfolio/
+🌐 **Veja mais em:** https://rodrigosantana24.github.io/Portfolio/
