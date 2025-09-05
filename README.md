@@ -1,7 +1,7 @@
 # Rodrigo Santana 👋
 ## **Desenvolvedor Backend Java com visão Fullstack.**
 
-💡Sou estudante de Sistemas de Informação na UFRPE e tenho me especializado em desenvolvimento backend com Java, enquanto amplio meus conhecimentos em React.js, SQL, MySQL, JavaScript, HTML, CSS  e Git para ter uma visão mais completa do desenvolvimento de software.
+💡Sou estudante de Sistemas de Informação na UFRPE e tenho me especializado em desenvolvimento backend com Java, enquanto amplio meus conhecimentos em Spring Boot, SQL, API's REST, React.js, HTML, CSS  e Git para ter uma visão mais completa do desenvolvimento de software.
 
 ## Linguagens e Tecnologias
 <p>
