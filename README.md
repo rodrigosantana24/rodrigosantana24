@@ -13,14 +13,6 @@
     <img align="left" alt="Rod-Spring" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   </a>
-  <a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
-    <img align="left" alt="Rod-React" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  </a>
-  <a href="https://github.com/rodrigosantana24/AprendizagemBackend" target="_blank">
-    <img align="left" alt="Rod-Mysql" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  </a>
     <a href="https://github.com/rodrigosantana24/AprendizagemFrontend" target="_blank">
     <img align="left" alt="Rod-Js" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
