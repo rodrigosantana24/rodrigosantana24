@@ -2,7 +2,7 @@
 ## **Desenvolvedor de Software**
 
 <p>
-Olá! Sou <strong>Desenvolvedor Full Stack</strong> e estudante do 4º período de <strong>Sistemas de Informação na UFRPE</strong>. Sou apaixonado por tecnologia e por transformar ideias em soluções de software práticas e eficientes. Tenho focado meus estudos em tecnologias como <strong>Java, Spring Boot</strong> para o backend e <strong>React, TypeScript</strong> para o frontend.
+Olá! Sou desenvolvedor e estudante do 4º período de Sistemas de Informação na UFRPE. Sou apaixonado por tecnologia e por transformar ideias em soluções de software práticas e eficientes. Tenho focado meus estudos em tecnologias como Java, Spring Boot para o backend e React, TypeScript para o frontend.
 </p>
 
 ---
