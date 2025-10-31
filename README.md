@@ -17,6 +17,10 @@ Olá! Sou desenvolvedor e estudante do 4º período de Sistemas de Informação 
     <img align="left" alt="Spring" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   </a>
+  <a href="https://github.com/rodrigosantana24/database-project" target="_blank">
+    <img align="left" alt="SQL" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  </a>
   <a href="https://github.com/rodrigosantana24/angular-ts-lab" target="_blank">
     <img align="left" alt="React" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
@@ -24,10 +28,6 @@ Olá! Sou desenvolvedor e estudante do 4º período de Sistemas de Informação 
   <a href="https://github.com/rodrigosantana24/angular-ts-lab" target="_blank">
     <img align="left" alt="TypeScript" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  </a>
-  <a href="https://github.com/rodrigosantana24/database-project" target="_blank">
-    <img align="left" alt="SQL" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   </a>
 </p>
 
