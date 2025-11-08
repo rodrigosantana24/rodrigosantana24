@@ -2,7 +2,7 @@
 ## **Desenvolvedor de Software**
 
 <p>
-Olá! Sou desenvolvedor e estudante do 4º período de Sistemas de Informação na UFRPE. Sou apaixonado por tecnologia e por transformar ideias em soluções de software eficientes e bem estruturadas. Tenho focado meus estudos em tecnologias como Java, Spring Boot para o backend e React, TypeScript para o frontend.
+Olá! Sou desenvolvedor e estudante do 4º período de Sistemas de Informação na UFRPE. Sou apaixonado por tecnologia e por transformar ideias em soluções de software eficientes e bem estruturadas. Tenho focado meus estudos em tecnologias como Java, Spring Boot para o backend e React, Angular, TypeScript para o frontend.
 </p>
 
 ---
