@@ -22,8 +22,8 @@ Olá! Sou desenvolvedor e estudante do 4º período de Sistemas de Informação 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   </a>
   <a href="https://github.com/rodrigosantana24/angular-ts-lab" target="_blank">
-    <img align="left" alt="React" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+    <img align="left" alt="Angular" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   </a>
   <a href="https://github.com/rodrigosantana24/angular-ts-lab" target="_blank">
     <img align="left" alt="TypeScript" height="50" width="50"
