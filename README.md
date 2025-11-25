@@ -1,8 +1,8 @@
 # 👋 Rodrigo Santana
-## **Desenvolvedor de Software**
+## **Desenvolvedor Back End**
 
 <p>
-Olá! Sou desenvolvedor e estudante do 4º período de Sistemas de Informação na UFRPE. Sou apaixonado por tecnologia e por transformar ideias em soluções de software eficientes e bem estruturadas. Tenho focado meus estudos em tecnologias como Java, Spring Boot para o backend e React, Angular, TypeScript para o frontend.
+Olá! Sou desenvolvedor e estudante do 4º período de Sistemas de Informação na UFRPE. Sou apaixonado por tecnologia e por transformar ideias em soluções de software eficientes e bem estruturadas. Tenho focado meus estudos em tecnologias como Java, Spring Boot e SQL.  
 </p>
 
 ---
@@ -20,14 +20,6 @@ Olá! Sou desenvolvedor e estudante do 4º período de Sistemas de Informação 
   <a href="https://github.com/rodrigosantana24/database-project" target="_blank">
     <img align="left" alt="SQL" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  </a>
-  <a href="https://github.com/rodrigosantana24/angular-ts-lab" target="_blank">
-    <img align="left" alt="Angular" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-  </a>
-  <a href="https://github.com/rodrigosantana24/angular-ts-lab" target="_blank">
-    <img align="left" alt="TypeScript" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   </a>
 </p>
 
