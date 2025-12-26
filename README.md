@@ -2,7 +2,7 @@
 ## **Desenvolvedor Back End**
 
 <p>
-Olá! Sou desenvolvedor e estudante do 4º período de Sistemas de Informação na UFRPE. Sou apaixonado por tecnologia e por transformar ideias em soluções de software eficientes e bem estruturadas. Tenho focado meus estudos em tecnologias como Java, Spring Boot e SQL.  
+Desenvolvedor e estudante de Sistemas de Informação pela UFRPE. Apaixonado por tecnologia e por transformar ideias em soluções de software eficientes e bem estruturadas. Com foco nos estudos de tecnologias como Java, Spring Boot e SQL.  
 </p>
 
 ---
